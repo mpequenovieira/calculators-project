@@ -1,6 +1,8 @@
 @charset "ISO-8859-1";
 
 body {
+	width: 97%;
+	margin: 25px 25px;
 	background: #00BFFF;
 }
 
@@ -10,7 +12,7 @@ img {
 
 div {
 	padding-right: 100px;
-	display:inline-block;
+	display: inline-block;
 }
 
 .titulo-principal {
@@ -24,13 +26,17 @@ div {
 	text-align: right;
 }
 
+/*MARGIN - superior, direito, inferior e esquerdo, nesta ordem*/
 .imagem {
 	height: 50%;
 	width: 50%;
-	margin: -50px 900px;
-	position: static;
+	margin: -240px -300px -1000px 900px;
+	
+	/*position: static;*/
 }
 
 .btn{
-	padding: 100px 50px 100px 50px;
+	height: 60%;
+	width: 60%;
+	margin: 0 250px 0 0;
 }
