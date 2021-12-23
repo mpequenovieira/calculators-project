@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+body {
+	background: #00BFFF;
+}
+
+img {
+	border-radius: 100%
+}
+
+div {
+	padding-right: 100px;
+	display:inline-block;
+}
+
+.titulo-principal {
+	background: #87CEEB;
+	padding-left: 20px;
+	text-align: center;
+}
+
+.label {
+	padding-left: 50px;
+	text-align: right;
+}
+
+.imagem {
+	height: 50%;
+	width: 50%;
+	margin: -100px 900px;
+	position: static;
+}
+
+.btn{
+	padding-right: 60%;
+}
