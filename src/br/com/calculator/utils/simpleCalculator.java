@@ -1,6 +1,6 @@
 package br.com.calculator.utils;
 
-public class Calculator {
+public class simpleCalculator {
 
 	private double valor1;
 	private double valor2;
